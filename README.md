@@ -12,3 +12,4 @@ A regression project for predicting house prices from property characteristics.
 
 ## Technologies
 Python, Pandas, NumPy, Scikit-learn, Matplotlib
+https://github.com/shashidhar568-kittu/House-Price-Prediction.git
